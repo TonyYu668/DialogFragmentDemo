@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="CustomEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#EBEBEB</item>
+        <item name="colorControlActivated">#EBEBEB</item>
+    </style>
+
+</resources>
